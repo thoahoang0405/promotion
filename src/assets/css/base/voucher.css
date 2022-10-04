@@ -1,0 +1,141 @@
+@import url(./icon.css);
+.main-voucher{
+    width: 100%;
+    height:auto;
+    box-sizing: border-box;
+    font-family: Helvetica,Tahoma,Arial,sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-color: #f4f7fa;
+  
+  }
+  .dateTime{
+    margin-top: 14px;
+    margin-left: 4px;
+  }
+  .dateTime .el-input__wrapper {
+    border: 1px solid #cfcfcf;
+    border-radius: 0px;
+   height: 20px;
+   margin: 0px 8px;
+   
+    
+}
+.dateTime input:focus {
+  border: none;
+}
+.dateTime .el-input .el-input__icon {
+  margin-top: 17px;
+}
+  .m-row{
+    height: 47px;
+  }
+
+  .main-hd{
+    background-color: #f4f7fa;
+  }
+  .row{
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .item-row{
+    display: flex;
+    padding: 0px 8px;
+    font-family: Helvetica,Tahoma,Arial,sans-serif;
+    font-size: 13px;
+  }
+  .row label{
+    margin-top: 16px;
+    
+  }
+  .row input[type="date"]{
+    margin-top: 4px;
+    min-width: 140px;
+    margin-left: 4px;
+    margin-right: 8px;
+  }
+  .btn-add{
+    border: 1px solid #bbb;
+    min-width:150px ;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    margin: 20px;
+    cursor: pointer;
+  }
+  .btn-iconAction-m{
+    display: flex;
+    margin: 10px;
+    border: none;
+    min-width: 70px;
+    padding: 4px;
+    align-items: center;
+    background-color: transparent;
+  }
+  .btn-iconAction:hover,
+  .btn-iconAction-m:hover{
+    background-color: #deeefb;
+  }
+  .btn-iconAction{
+    display: flex;
+    margin: 10px;
+    border: none;
+    min-width: 70px;
+    padding: 8px;
+    align-items: center;
+    background-color: #fff;
+
+  }
+  .btn-add:hover{
+    background-color: #cfd8dc;
+  }
+  input{
+    height: 30px;
+    box-sizing: border-box;
+    border:1px solid #cfcfcf;
+    outline: none;
+  }
+  input:focus{
+    border:1px solid #0099fa;
+  }
+  .btn-getData{
+   background-color:  #0099fa;
+    color: #fff;
+    border: none;
+    height: 30px;
+    min-width: 90px;
+    border-radius: 4px;
+    font-weight: 600;
+    margin-top: 8px;
+  }
+  .btn-getData:hover{
+    background-color: #157fcc;
+    border: 1px solid #b0bec5;
+
+  }
+  .btn-iconAction{
+    background-color: #fff;
+    height: 30px;
+    border:none;
+    margin: 6px;
+    font-size: 13px;
+    background-position:4px center ;
+  }
+  .category input,
+  .status input{
+    width: 130px !important;
+  }
+  .category .icon-cbb,
+  .status .icon-cbb{
+    margin-left: -30px !important;
+  }
+  .category  .option-cbb,
+  .status .option-cbb{
+    width: 130px !important;
+  }
+  
+  .row-in{
+    height: 100px;
+  }

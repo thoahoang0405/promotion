@@ -1,0 +1,8 @@
+.main{
+  height: calc(100% - 130px) !important;
+  background-color: #f4f7fa;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+}
