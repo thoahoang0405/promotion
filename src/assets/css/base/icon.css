@@ -1,0 +1,82 @@
+
+.logo-header{
+    background-image: url(../../img/amis.png);
+}
+.user-manual{
+    background-image: url(../../icon/ext.axd);
+}
+.user-menu{
+    background: url(../../img/Sprites.64af8f61.svg) no-repeat -1129px -365px;
+}
+.icon-cbb{
+    background: url(../../img/Sprites.64af8f61.svg) no-repeat -1078px -38px;
+}
+.icon-browser{
+    background: url(../../img/Group\ 9776.png) no-repeat;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+   
+}
+
+.icon-refuse{
+    background: url(../../img/cancel16.png) no-repeat;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+   
+}
+.icon-refuse2{
+    background: url(../../img/cancel16.png) no-repeat;
+    width: 20px;
+    height: 20px;
+    margin: 0px 4px;
+}
+.icon-watch{
+    background: url(../../img/ext.axd) no-repeat;
+    width: 20px;
+    height: 20px;
+    margin: 5px 5px 3px;
+    
+}
+.icon-edit{
+    background: url(../../img/ic_edit.png) no-repeat;
+    width: 20px;
+    height: 20px;
+    margin:0 5px 5px 3px;
+   
+}
+.icon-send{
+    background: url(../../img/extsend.axd) no-repeat;
+    width: 20px;
+    height: 20px;
+}
+.icon-request{
+    background: url(../../img/pay-request.png) no-repeat;
+    width: 20px;
+    height: 20px;
+}
+.icon-unSend{
+    background: url(../../img/extthuhoi.axd) no-repeat;
+    width: 20px;
+    height: 20px;
+    
+}
+.icon-close{
+    background: url(../../img/clear.png) no-repeat;
+    width: 20px;
+    height: 20px;
+    opacity: 0.5;
+}
+.icon-close:hover{
+    opacity: 1;
+}
+.icon-save{
+    background: url(../../img/savebtn.png) no-repeat;
+}
+.icon-add{
+    background: url(../../img//extbtn.axd) no-repeat;
+    height: 25px;
+    width: 25px;
+    margin-top: 8px;
+}
