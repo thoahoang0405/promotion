@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # promotion
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# promotion
+>>>>>>> 1728e02288612caf6f016a56290b085a71fb7280
